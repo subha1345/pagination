@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\git\\pagination\\webapi\\webapi\\webapi.csproj": {}
+    "D:\\Projects\\git\\pagination\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\git\\pagination\\webapi\\webapi\\webapi.csproj": {
+    "D:\\Projects\\git\\pagination\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\git\\pagination\\webapi\\webapi\\webapi.csproj",
+        "projectUniqueName": "D:\\Projects\\git\\pagination\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "D:\\Projects\\git\\pagination\\webapi\\webapi\\webapi.csproj",
+        "projectPath": "D:\\Projects\\git\\pagination\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\Jit\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\git\\pagination\\webapi\\webapi\\obj\\",
+        "outputPath": "D:\\Projects\\git\\pagination\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jit\\AppData\\Roaming\\NuGet\\NuGet.Config",
